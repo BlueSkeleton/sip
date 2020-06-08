@@ -7,3 +7,5 @@ Here we go again. I'm not the biggest (or even the smallest for that matter) p5.
 ## Ballz
 The particle system one. It's nothing too fancy, the particles keep the same speed when they collide with the walls or ceilings, but when they collide with eachother a new vector is applied to them which is based on the speed they were travelling at and the angle at which they collided. Thought about putting in a little sound effect every time they hit, thought that would get annoying very fast.
 
+## Sierpinski
+The L-System one. I looked up the rules for the system, and gave each symbol its own meaning as an instruction to further the drawing of the triangle. It also moves up a step every time the space key is pressed. I haven't much to say about this one, I think it looks nice though.
