@@ -14,4 +14,7 @@ The L-System one. I looked up the rules for the system, and gave each symbol its
 Got stumped trying to wrap my brain around flock and boid systems, but then I figured out a simpler way to accomplish pretty much the same task. I like to think that sometimes an imitation is just as good as the real thing.
 
 ## Branches
-Easily my favourite out of the bunch. Every time it redraws I get the urge to frame it and hang it up on my wall as a tasteful painting. It's also fun changing the variables around and seeing all the different ranges it can accomplish. The only way I could like it more is if it swayed and played some gentle music.
+Easily my (second) favourite out of the bunch. Every time it redraws I get the urge to frame it and hang it up on my wall as a tasteful painting. It's also fun changing the variables around and seeing all the different ranges it can accomplish. The only way I could like it more is if it swayed and played some gentle music.
+
+## Bowie Colours
+Easily my favourite out of the bunch. An exercise in random filter (more like tint but I still think it's neat) generation. I legitimately spent 2 hours looking at Bowie in different colours.
