@@ -11,4 +11,4 @@ The particle system one. It's nothing too fancy, the particles keep the same spe
 The L-System one. I looked up the rules for the system, and gave each symbol its own meaning as an instruction to further the drawing of the triangle. It also moves up a step every time the space key is pressed. I haven't much to say about this one, I think it looks nice though.
 
 ## Flock
-Got stumped trying to wrap my brain around flock and boid systems, but then I figured out a simpler way to accomplish pretty much the same task. 
+Got stumped trying to wrap my brain around flock and boid systems, but then I figured out a simpler way to accomplish pretty much the same task. I like to think that sometimes an imitation is just as good as the real thing.
